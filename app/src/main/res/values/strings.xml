@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HUMapDemo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="google_android_map_api_key">AIzaSyAJLJZ7IrZQC8XNm4sKOshUVoOS7Q-jSNI</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">HUMapDemo</string>
+    <string name="title_activity_search">Search For Info</string>
+    <string name="title_activity_gps">HUGpsDemo</string>
+    <string name="title_activity_main">HUMapDemo</string>
+    <string name="intialpoint">Intial location</string>
+    <string name="google_map_type_none">None</string>
+    <string name="google_map_type_normal">Normal</string>
+    <string name="google_map_type_Hybrid">Hybrid</string>
+    <string name="google_map_type_satellite">Satellite</string>
+    <string name="google_map_type_terrial">Terrial</string>
+</resources>

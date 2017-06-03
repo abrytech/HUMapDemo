@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:Context="com.abraham.humapdemo.MapsActivity">
+<item
+    android:id="@+id/map_type_none"
+    android:title="@string/google_map_type_none"
+    android:icon="@drawable/ic_action_none" />
+<item
+    android:id="@+id/map_type_normal"
+    android:title="@string/google_map_type_normal"
+    android:icon="@drawable/ic_map_black_24dp"
+    />
+<item
+    android:id="@+id/map_type_satellite"
+    android:title="@string/google_map_type_satellite"
+    android:icon="@drawable/ic_action_satellite"
+    app:showAsAction="always"/>
+<item
+    android:id="@+id/map_type_terrial"
+    android:title="@string/google_map_type_terrial"
+    android:icon="@drawable/ic_action_terrail"
+    app:showAsAction="always"/>
+<item
+    android:id="@+id/map_type_hybrid"
+    android:title="@string/google_map_type_Hybrid"
+    android:icon="@drawable/ic_action_hybrid"
+    app:showAsAction="always"/>
+
+</menu>
